@@ -1,4 +1,4 @@
-Here's a description you can use for your GitHub repository:
+Here's a description you can use for GitHub repository:
 
 ---
 
