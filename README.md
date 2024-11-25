@@ -19,6 +19,10 @@ This project is a web-based **Online Book Store Management System** that enables
 - **View Books**: Users can browse available books, view details, and read PDFs.
 - **Category Navigation**: Users can filter books based on categories.
 
+### Admin ID
+- **ID**: ab@gmail.com
+- **Password**: 12345678
+
 ## Project Structure
 
 - **index.php**: Main page accessible to all users.
