@@ -1,5 +1,3 @@
-Here's a description you can use for GitHub repository:
-
 ---
 
 # Online Book Store Management System
